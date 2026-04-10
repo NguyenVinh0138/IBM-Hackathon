@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+ibm-watsonx-ai
+ibm-cloud-sdk-core
+requests
